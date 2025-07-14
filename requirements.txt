@@ -4,3 +4,4 @@ undetected-chromedriver
 rapidfuzz
 python-docx
 pdfminer.six
+setuptools
