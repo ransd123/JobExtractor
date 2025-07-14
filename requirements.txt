@@ -5,3 +5,4 @@ rapidfuzz
 python-docx
 pdfminer.six
 setuptools
+docx2txt
