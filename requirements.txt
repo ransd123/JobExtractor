@@ -7,3 +7,4 @@ pdfminer.six
 setuptools
 docx2txt
 PyPDF2
+scikit-learn
