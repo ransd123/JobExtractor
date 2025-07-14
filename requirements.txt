@@ -1,7 +1,6 @@
 streamlit
 selenium
 undetected-chromedriver
-scikit-learn
 rapidfuzz
-docx2txt
-PyPDF2
+python-docx
+pdfminer.six
